@@ -1,3 +1,23 @@
+Oct 18 - 9:48
+----------------------------------------------
+Felt the need to do something with this repo in lieu of my regular meeting with the Games as Research folk every Friday (which was skipped this week for Reading Week).
+
+I want to start thinking of the overall structure and goals of this project as both an archiving and design project.
+
+In terms of archiving, I want to have the following collections:
+
+- Steam reviews
+- Developer demakes and prototypes
+- Custom levels and assets
+- Maddy Thorson's website archives
+- Speedruns and playthroughs
+
+All of these could obviously be quite massive, so I will have to take a curatorial approach to how I select them. Also, there are copyright issues with hosting files that are not my own and ethical issues for hosting things that are related to sexual identity and mental health. Also, should all of these be part of the same CSV file? I don't see why not but it will be easier to keep the CSV file organized by either colour or tab and by row. I should also use MDM for each item I add to each collection and start researching the link between curation and archiving.
+
+I am also trying to think about how I will customize the CB template to make it look less like a boring institutional WordPress template and closer to something sleeker and more stylish/well-designed. I should start looking up web-design pages and create some kind of mood board for sites that I like.
+
+Finally, I might end up using a doc file instead of this code template for planning just because it is more familiar and I can use text formatting/stylization and emojis and what not.
+
 Oct 11 - 11:55 (during the GaR meeting)
 ----------------------------------------------
 Switched from GitHub Pages templates to standalone CSV templates so that I can play around locally and am not bound by the 1GB storage restrictions that GH Pages imposes. Will probably be tougher but will allow for more flexibility (and learning) in the long run.
